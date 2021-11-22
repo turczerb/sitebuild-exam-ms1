@@ -80,8 +80,8 @@ section p {
     grid-row-start: 3;
     grid-row-end: 3;
     width: 200px;
-    margin-left: 220px;
+    margin-left: 20%;
     height: 60px;
     background-color: goldenrod;
-    margin-bottom: 40px;
+   
 }
